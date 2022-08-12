@@ -9,7 +9,7 @@ keywords: swift, rxswift
 usemathjax: false
 permalink: /blog/swift-startWith-and-concat/
 ---
-<h2>startWith</h2>
+## startWith
 
 ```swift
 print("---------- startWith ----------")
@@ -27,7 +27,7 @@ childGroup
     })
     .disposed(by: disposeBag)
 ```
-<h2>startWith result</h2>
+## startWith result
 ```swift
 ---------- startWith ----------
 👨🏻teacher
@@ -36,7 +36,7 @@ childGroup
 👦🏽child2
 ```
 
-<h2>concat</h2>
+## concat
 ```swift
 print("---------- concat1 ----------")
 let childGroup2 = Observable<String>.of("👦🏻", "🧒🏼", "👦🏽")
@@ -58,7 +58,7 @@ teacher
     })
     .disposed(by: disposeBag)
 ```
-<h2>concat result</h2>
+## concat result
 ```swift
 ---------- concat1 ----------
 👨🏻
@@ -73,7 +73,7 @@ teacher
 
 ```
 
-<h2>concatMap</h2>
+## concatMap
 ```swift
 print("---------- concatMap ----------")
 let careCenter: [String: Observable<String>] = [
@@ -90,7 +90,7 @@ Observable<String>.of("childGroup", "babyGroup")
     })
     .disposed(by: disposeBag)
 ```
-<h2>concatMap result</h2>
+## concatMap result
 ```swift
 ---------- concatMap ----------
 👦🏻
