@@ -27,7 +27,7 @@ Observable.of(kanto, tohoku)
     })
     .disposed(by: disposeBag)
 ```
-### 特徴
+### merge 特徴
 1. mergeされたobservableの中で一つでもエラーが発生したら全体エラー
 2. 放出される順番はきまってない
 
@@ -196,7 +196,7 @@ matchResult
     })
     .disposed(by: disposeBag)
 ```
-### 特徴
+### zip 特徴
 zipの中の一つでも完了したら全体が終了
 
 
