@@ -1,7 +1,7 @@
 ---
 layout: post
 # published: true
-title:  "startWith and concat"
+title:  "[rxSwift] startWith and concat"
 summary: "how to use startWith and concat"
 author: jiha
 category: [swift, rxswift]
