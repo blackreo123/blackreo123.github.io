@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+# published: true
 title:  "startWith and concat"
 summary: "how to use startWith and concat"
 author: jiha
