@@ -4,7 +4,6 @@ layout: post
 title:  "startWith and concat"
 summary: "how to use startWith and concat"
 author: jiha
-date: "`r format(Sys.time(), '%Y/%m/%d')`"
 category: [swift, rxswift]
 tags: swift
 keywords: swift, rxswift
