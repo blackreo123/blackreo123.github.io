@@ -7,6 +7,7 @@ author: jiha
 category: [swift, rxswift]
 tags: swift
 keywords: swift, rxswift
+thumbnail: /assets/img/posts/swift.png
 usemathjax: false
 permalink: /blog/swift-startWith-and-concat/
 ---
