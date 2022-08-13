@@ -31,7 +31,7 @@ Observable.of(kanto, tohoku)
 1. mergeされたobservableの中で一つでもエラーが発生したら全体エラー
 2. 放出される順番はきまってない
 
-### result
+### merge exmple1 result
 ```swift
 ---------- merge1 ----------
 東京
@@ -60,7 +60,7 @@ Observable.of(kanto, tohoku)
     })
     .disposed(by: disposeBag)
 ```
-### result
+### merge exmple2 result
 ```swift
 ---------- merge2 ----------
 東京
@@ -105,7 +105,7 @@ firstName.onNext("Bae")
 firstName.onNext("Kim")
 
 ```
-### result
+### combineLatest example1 result
 ```swift
 ---------- combineLatest1 ----------
 Yoonjiha
@@ -137,7 +137,7 @@ firstName.onNext("Bae")
 firstName.onNext("Kim")
 ```
 
-### result
+### combineLatest example2 result
 ```swift
 ---------- combineLatest2 ----------
 Yoon jiha
@@ -165,7 +165,7 @@ makeToday
     })
     .disposed(by: disposeBag)
 ```
-### result
+### combineLatest example3 result
 ```swift
 ---------- combineLatest3 ----------
 8/13/22
@@ -200,7 +200,7 @@ matchResult
 zipの中の一つでも完了したら全体が終了
 
 
-### result
+### zip example result
 ```swift
 ---------- zip ----------
 korea lose
