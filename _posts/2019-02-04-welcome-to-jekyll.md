@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Welcome to devlopr-jekyll !"
 summary: "Getting Started using devlopr-jekyll"
 author: jiha

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Added Multi Author Support"
 summary: "Multi Author Support allows to create articles with different Authors"
 author: jiha

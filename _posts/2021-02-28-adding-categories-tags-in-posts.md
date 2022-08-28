@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Adding Multiple Categories in Posts"
 summary: "Learn how to add categories in posts"
 author: jiha

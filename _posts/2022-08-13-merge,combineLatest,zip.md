@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 # published: true
 title:  "[rxSwift] merge, combineLatest, zip"
 summary: "how to use merge, combineLatest, zip"

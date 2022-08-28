@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 author: jiha
 title: Netlify CMS created this Article
 date: 2020-05-23T09:52:20.613Z

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Added Latex Support"
 summary: Writing Equations using Latex
 author: jiha
