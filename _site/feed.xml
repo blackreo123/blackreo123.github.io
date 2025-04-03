@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-03T23:21:03+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">My Blog</title><subtitle>My personal blog</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-03T23:31:34+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">My Blog</title><subtitle>My personal blog</subtitle><entry><title type="html">Welcome to My Blog</title><link href="http://localhost:4000/blog/2024/04/03/welcome.html" rel="alternate" type="text/html" title="Welcome to My Blog" /><published>2024-04-03T00:00:00+09:00</published><updated>2024-04-03T00:00:00+09:00</updated><id>http://localhost:4000/blog/2024/04/03/welcome</id><content type="html" xml:base="http://localhost:4000/blog/2024/04/03/welcome.html"><![CDATA[<h1 id="welcome-to-my-blog">Welcome to My Blog</h1>
+
+<p>This is my first blog post using Jekyll and GitHub Pages.</p>
+
+<h2 id="what-ill-write-about">What I’ll Write About</h2>
+
+<ul>
+  <li>Technology</li>
+  <li>Programming</li>
+  <li>Personal thoughts</li>
+  <li>And more…</li>
+</ul>
+
+<p>Stay tuned for more posts!</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Welcome to My Blog]]></summary></entry></feed>
