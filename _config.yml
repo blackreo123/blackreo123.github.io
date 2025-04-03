@@ -10,6 +10,14 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+# Navigation
+navigation:
+  main:
+    - title: Study
+      url: /study/
+    - title: APP
+      url: /app/
+
 # Exclude from processing
 exclude:
   - Gemfile

@@ -1,13 +1,13 @@
 ---
 layout: home
-title: Welcome to My Blog
+title: Home
 ---
 
-# Welcome to My Blog
+# 블로그에 오신 것을 환영합니다
 
-This is my personal blog built with Jekyll and GitHub Pages.
+Jekyll과 GitHub Pages로 만든 개인 블로그입니다.
 
-## Recent Posts
+## 최근 포스트
 
 {% for post in site.posts limit:5 %}
   - [{{ post.title }}]({{ post.url | relative_url }}) - {{ post.date | date: "%Y-%m-%d" }}
