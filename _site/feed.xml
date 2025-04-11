@@ -1,6 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-11T16:05:51+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">My Blog</title><subtitle>My personal blog</subtitle><entry><title type="html">뜨개질 카운터 앱 개발</title><link href="http://localhost:4000/app/2024/04/03/first-app.html" rel="alternate" type="text/html" title="뜨개질 카운터 앱 개발" /><published>2024-04-03T00:00:00+09:00</published><updated>2024-04-03T00:00:00+09:00</updated><id>http://localhost:4000/app/2024/04/03/first-app</id><content type="html" xml:base="http://localhost:4000/app/2024/04/03/first-app.html"><![CDATA[<h1 id="뜨개질-카운터-앱-개발">뜨개질 카운터 앱 개발</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-11T16:17:36+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">My Blog</title><subtitle>My personal blog</subtitle><entry><title type="html">뜨개질 카운터 앱 개발</title><link href="http://localhost:4000/app/2024/04/03/first-app.html" rel="alternate" type="text/html" title="뜨개질 카운터 앱 개발" /><published>2024-04-03T00:00:00+09:00</published><updated>2024-04-03T00:00:00+09:00</updated><id>http://localhost:4000/app/2024/04/03/first-app</id><content type="html" xml:base="http://localhost:4000/app/2024/04/03/first-app.html"><![CDATA[<h1 id="뜨개질-카운터-앱-개발">뜨개질 카운터 앱 개발</h1>
 
 <p>뜨개질 작업 시 필요한 단수와 코수를 효율적으로 관리할 수 있는 iOS 앱을 개발 중입니다.</p>
+
+<blockquote>
+  <p><a href="/privacy-policies/knit-counter">뜨개산기 개인정보 처리방침 보기</a></p>
+</blockquote>
 
 <h2 id="프로젝트-개요">프로젝트 개요</h2>
 

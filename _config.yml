@@ -19,6 +19,9 @@ navigation:
       url: /app/
     - title: Contact
       url: /contact/
+  footer:
+    - title: Privacy Policy
+      url: /privacy-policy/
 
 # Exclude from processing
 exclude:
