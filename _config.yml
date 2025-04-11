@@ -17,6 +17,8 @@ navigation:
       url: /study/
     - title: APP
       url: /app/
+    - title: Contact
+      url: /contact/
 
 # Exclude from processing
 exclude:
